@@ -50,7 +50,6 @@
 ## 🌍 Connect with Me
 
 <p align="center">
-<a href="mailto:muslim200411@gmail.com"><img src="https://cdn.simpleicons.org/discord" alt="Discord" width="48" height="48"/></a>
 <a href="https://t.me/muslldev"><img src="https://cdn.simpleicons.org/telegram" width="48" height="48" alt="Telegram"/></a>
 <a href="mailto:muslim200411@gmail.com"><img src="https://cdn.simpleicons.org/gmail" alt="Gmail" width="48" height="48"/></a>
 </p>
