@@ -27,6 +27,12 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,yarn" />
 </p>
 
+### DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=linux,nginx" />
+</p>
+
 ---
 
 ## 🚀 Current Focus
