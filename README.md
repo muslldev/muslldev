@@ -1,61 +1,61 @@
 <h1 align="center">👋 Hi, I'm Muslim Kozhasov</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=ex-Frontend+Developer;Future+DevOps+Engineer" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=muslldev&style=for-the-badge&color=0ea5e9" />
+<img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Intern" />
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 About me
 
-* 🔥 OmSU Student and School21 pupil
-* 🧩 Love clean code, scalable architecture, and elegant logic (no dirty flags 😄)
-* 🛠️ Experience with **web**
-* 🎤 Improving **public speaking & communication skills**
-
----
-
-## 🛠️ Tech Stack
-
-### Frontend
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,yarn" />
-</p>
-
-### DevOps
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,nginx" />
-</p>
+* 🔥 I study at Sber's digital technologies school - **School 21**
+* 🌱 I specialize in **System Administration and DevOps**
+* 🛠️ I have experience in **Frontend**
+* 🎤 I improve **public speaking and communication** skills
 
 ---
 
-## 🚀 Current Focus
+## 🛠️ My stack
 
-* 🎨 Advanced UI systems with **shadcn/ui & Tailwind**
-* 🌱 Growing as a **software engineer**
+### OS and Networking
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,nginx" />
+</p>
+
+### Containerization
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=docker" />
+</p>
+
+### Version Control System
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=git" />
+</p>
+
+### Languages & Scripting
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=bash,python" />
+</p>
+
+### Observability
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=prometheus,grafana" />
+</p>
+
+### Docs
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=markdown" />
+</p>
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muslldev&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=muslldev&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muslldev&layout=compact&theme=tokyonight" />
-</p>
-
----
-
-## 🌍 Connect with Me
+## 🌍 How to contact me?
 
 <p align="center">
 <a href="https://t.me/muslldev"><img src="https://cdn.simpleicons.org/telegram" width="48" height="48" alt="Telegram"/></a>
