@@ -4,6 +4,8 @@
 <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=DevOps+Intern" />
 </p>
 
+[![SadServers Level](https://img.shields.io/badge/SadServers-Intermediate-37352F?style=for-the-badge&labelColor=F7F6F3&logo=linux&logoColor=37352F)](https://sadservers.com/accounts/dashboard)
+
 ---
 
 ## 🧠 About me
