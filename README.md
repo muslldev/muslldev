@@ -37,6 +37,12 @@
 <img src="https://skillicons.dev/icons?i=git" />
 </p>
 
+### CI/CD
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=gitlab" />
+</p>
+
 ### Languages & Scripting
 
 <p align="left"> 
