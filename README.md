@@ -43,6 +43,12 @@
 <img src="https://skillicons.dev/icons?i=gitlab" />
 </p>
 
+### IaC
+
+<p align="left"> 
+<img src="https://skillicons.dev/icons?i=ansible" />
+</p>
+
 ### Languages & Scripting
 
 <p align="left"> 
